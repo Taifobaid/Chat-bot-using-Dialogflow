@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pasta-resturant-chatbot-csexlb",
+  "private_key_id": "571fa64f8df666fbcf587dec780f9000a80909cd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKs5SGfa0VWNuR\nJl2+GTiiI0fZudRsinkltP4K8JkZKeZSrSC9o2GAiD55OtPDjROnb9apwr920Jhl\nfZjSvIEZjP2Uh9RSERB4cblbmgrpDWT2iiOwNg/WAAeirC9I31aM7miFtUUJrtg8\nLyCwDS2AP9/Q/9Tz6SUKcqvWNcqtELg5PJ/uI4xmdz4E45dh5HK3RINWMiWQlXcM\nc5Nfgc4HyA3ZU3gwHxlaeI0HkEpWo9LUDF/mDGIxSIZ0VNp9QX1ZgG2YfMcas+as\nNcyY634BSsfyRQCBm8IbWDMIBqLJIvgOBpEScG4+JT1j5vs8+Xojl5V0JQlqWR69\nY2NHu4BzAgMBAAECggEAQvw0bXtzqtXJ/X4hxXP9QKuLD3r3JYVfQqQ8va3D0kqD\n6Dd5VeH7kyezCYn0uC9TWuY9GK2YazHE4ukuCxorSZ/Lnv2CHzqvaDYgzJIr39dC\n0axV3eIHuq8Y1tuy5pCTwA/7L5B3R5tlrwHd+f/o1PSGyMD6hT47NOgvPCNbnnQM\nOx2tnAgajziXzP+nSA7L5WvYdRPM5J4FgU+R2tDkSDTEQW1WamV/gVubSZUojBpd\nGPOTBEuG4RIeuLmV26J6fXSZetR8f2fB4HJYjogJm9/g4KLtYF5WcLLHsa8A0vHB\n78U+KUUiT2peAwaCP8lVj6bZgiBt9Mw4Slpj94867QKBgQD7XeEm8KCBVc1N4D+T\nJXd6P6zsBdIxdZHhLWlFfmQHQj2V241c1RsXIst7DVtPk6Gi/eoCQ997CctQr0s4\nNinDUh8p8xGh1uVbcuHxd5JpQTmrrlALD6g6RjMMzf8d2X7VJ1t4RGX7bfz+Fxl7\nnXMRQ1X/UB0AUtgDj0eINzza7wKBgQDOcBCTdCICM64OpQE0hRKlSNb0p5CZxm2n\nes1waHZ1LiaWP8unCMU7VFJJttNS6kPdTYSiiTvfFGw+jFNhW4g1Psx7WDtYkQ5R\nQR1UGHtIHGJa16enPm368Gf+sBtWCI68p4WP46CUCKIHE96d+vXszC4p6Fzhmma0\nTO8qO2gCvQKBgQCq/29WVSVrNppmmuHE0R0ZLc4N9dvKx6dInuLZYqTbh0Vr96KP\n/2zhbUstV6XBWbYAsmkJx3B1O/Fy3vz1rWr1s5z9pZxeE1mNv3ZTFLumHLgFwZw0\nGh+gHPdHg69EeBvfF1oTU7xosacEl2Q/gpmvqbYL7Ez+Vl0a9tJ7qNAeQwKBgQC+\nWQyfueyF1TtAG5th3vYTW3eA/WTStel0DUKSzG+1mslPryFMMkUScKyzdZWjlYjf\n7NNIv3tqNb2dauyTD8AnQHFxpiiKgK4P9Bdj7HL4SdvS4ZigGGt2f+eUKrP5/0gF\n4f3AcGYnOVKVbhfN2ZKbNqW2VKAYEbNzuqCoc0BzjQKBgHxsIRdS522TaZtl6i2r\n0HWhytUwmqP4VwuR2mmQ1qy3X/NZZf5O0pHE7PpxZR64skzNXs5SngSllAW9BAz1\nnQg1gkiDIaI3T8C19D4nAYtSqRpekjFBhME4CIi4Nib0qbMENb5h8bSdJDDuCBce\ny9uy+Euh8eB2wKpdwcOIMRg+\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-xwthov@pasta-resturant-chatbot-csexlb.iam.gserviceaccount.com",
+  "client_id": "108534920676520557090",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-xwthov%40pasta-resturant-chatbot-csexlb.iam.gserviceaccount.com"
+}
